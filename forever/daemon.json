@@ -1,0 +1,6 @@
+{
+	"uid": "ocs-sms-gtwy",
+	"append": true,
+	"watch": true,
+	"script": "app.js"
+}

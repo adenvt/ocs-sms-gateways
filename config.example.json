@@ -1,0 +1,19 @@
+{
+	"modem": {
+		"port": "/dev/ttyUSB0",
+		"baudRate": 115200
+	},
+	"db": {
+		"ip": "localhost",
+		"engine": "mysql",
+		"database": "sms",
+		"user": "root",
+		"pass": ""
+	},
+	"web": {
+		"port": 3000
+	},
+	"socketIO": {
+		"port": 8080
+	}
+}
